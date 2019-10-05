@@ -1,0 +1,12 @@
+This is a demo/proof of concept for a chatbot created using Dialogflow platform (Buggy)
+
+To test the chatbot ( web demo link ) : https://bot.dialogflow.com/77cf47ee-be6e-4672-a11c-8f49226c0889
+
+Accepted inputs :
+  "book me a flight"
+  "book me a flight from ____ to ____"
+  
+List of Destinations in database for testing :
+  depart1:'ahmedabad',dest:'mumbai'
+  depart1:'mumbai',dest:'ahmedabad'
+  depart1:'delhi',dest:'mumbai'
